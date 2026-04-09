@@ -4,5 +4,4 @@ numpy
 plotly
 scikit-learn
 statsmodels
-sklearn
 xgboost
