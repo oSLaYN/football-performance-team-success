@@ -4,4 +4,8 @@ numpy
 plotly
 scikit-learn
 statsmodels
-xgboost
+ipython
+nbformat>=4.2.0
+xgboost==3.2.0
+matplotlib==3.10.6
+tensorflow==2.21.0
